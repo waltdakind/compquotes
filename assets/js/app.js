@@ -1,7 +1,7 @@
 
 
 //api route for the quote 
-var api = 'http://quotes.stormconsultancy.co.uk/random.json';
+var api = 'https://quotes.stormconsultancy.co.uk/random.json';
 //the ajax call function
 function newQuote(){
 $.get( api, function( data ) {
