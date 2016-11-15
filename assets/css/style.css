@@ -1,9 +1,6 @@
-.container {
-	text-align: center;
-}
-body {
+
+.jumbotron {
     background-color: lightblue;
-}
-p {
     font-family: "Times New Roman", Times, serif;
+    text-align: center;
 }
